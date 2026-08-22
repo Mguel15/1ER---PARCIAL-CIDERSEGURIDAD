@@ -58,17 +58,85 @@ RTA/:La empresa debería seguir estos pasos:
 
 RTA/:<table>
   <tr>
-    <th>Nombre</th>
-    <th>Edad</th>
+    <th>Tipo</th>
+    <th>Características</th>
+   <th>Descripción</th>
+  </tr>
+    <td>Hacker de sombrero blanco</td>
+    <td>Actúa con autorización y de forma ética.</td>
+    <td>Encontrar vulnerabilidades para mejorar la seguridad.</td>
   </tr>
   <tr>
-    <td>Ana</td>
-    <td>25</td>
+    <td>Hacker de sombrero negro</td>
+    <td>Accede a sistemas sin autorización y con fines maliciosos.</td>
+   <td>Robar información, causar daños o cometer fraudes.</td>
   </tr>
+  <td>Hacker de sombrero gris</td>
+  <td>Puede acceder a sistemas sin permiso, pero no siempre con intención maliciosa.</td>
+  <td>Identificar vulnerabilidades, aunque utiliza métodos no autorizados.</td>
+   </tr>
   <tr>
-    <td>Luis</td>
-    <td>30</td>
-  </tr>
+  <td>Cracker</td>
+   <td>Busca vulnerar sistemas, programas o protecciones de seguridad de manera ilegal.</td>
+   <td>Romper protecciones, alterar software o acceder sin autorización.</td>
 </table>
 
+5. ¿Qué leyes nacionales e internacionales están orientadas a la ciberseguridad y el habeas data? Desarrollar una tabla descriptiva de cada una.
+
+
+     <table style=" border=1; cellpadding=10; cellspacing=0; border-collapse: collapse; width: 100%; font-family: Arial; font-size: 14px;">
+  <thead style="background-color: #0d1b2a; color: white;">
+    <tr>
+      <th>Ley / Norma</th>
+      <th>Ámbito</th>
+      <th>Año</th>
+      <th>Objetivo Principal</th>
+      <th>Qué Protege</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Ley 1273</b></td>
+      <td>Colombia - Nacional</td>
+      <td>2009</td>
+      <td>Delitos Informáticos</td>
+      <td>Penas por acceso abusivo, virus, phishing y suplantación</td>
+    </tr>
+    <tr>
+      <td><b>Ley 1581</b></td>
+      <td>Colombia - Nacional</td>
+      <td>2012</td>
+      <td>Régimen General de Habeas Data</td>
+      <td>Derecho a conocer, actualizar y rectificar datos personales</td>
+    </tr>
+    <tr>
+      <td><b>Ley 1266</b></td>
+      <td>Colombia - Nacional</td>
+      <td>2008</td>
+      <td>Habeas Data Financiero</td>
+      <td>Datos crediticios en centrales de riesgo</td>
+    </tr>
+    <tr>
+      <td><b>Decreto 1377</b></td>
+      <td>Colombia - Nacional</td>
+      <td>2013</td>
+      <td>Reglamenta Ley 1581</td>
+      <td>Cómo pedir autorización para uso de datos</td>
+    </tr>
+    <tr>
+      <td><b>Ley 1928 / Convenio de Budapest</b></td>
+      <td>Internacional</td>
+      <td>2001 / 2018</td>
+      <td>Cooperación contra ciberdelitos</td>
+      <td>Unifica delitos informáticos en 68 países</td>
+    </tr>
+    <tr>
+      <td><b>GDPR UE 2016/679</b></td>
+      <td>Internacional - UE</td>
+      <td>2016</td>
+      <td>Protección de datos europea</td>
+      <td>Datos de ciudadanos UE, aplica extraterritorialmente</td>
+    </tr>
+  </tbody>
+</table>
 
